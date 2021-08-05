@@ -1,5 +1,4 @@
-<asyncapi-component
-  [schema]='{
+{
   "asyncapi": "2.0.0",
   "defaultContentType": "application/json",
   "info": {
@@ -56,9 +55,3 @@
     }
   }
 }
-'
-  [config]=''
-  [schemaUrl]=''
-  [schemaFetchOptions]=''
-  [cssImportPath]="'https://unpkg.com/@asyncapi/react-component@0.24.3/lib/styles/fiori.css'">
-</asyncapi-component>
